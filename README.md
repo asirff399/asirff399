@@ -1,3 +1,4 @@
+<img src="https://i.ibb.co/3dGFYXB/aintisar48-gmail-com-7.png" />
 # 💫 About Me:
 🛠   I’m currently working with C, C++, Data Structures, Algorithm<br>OOP, SQL, Django, DRF, JavaScript, front-end technologies, etc.<br>🚀   I’m focusing on building exciting projects that challenge my skills.<br>👨🏻‍💻   You can check out most of my projects on Github.<br>👾   Fun fact: "It works!" Developers often have no idea why their code suddenly works.
 
