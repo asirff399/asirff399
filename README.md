@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/3dGFYXB/aintisar48-gmail-com-7.png" />
+<img src="./banner.png" />
 
 <h1 align="center">Hi 👋, I'm Md Asir Intisar</h1>
 <!-- header start -->
