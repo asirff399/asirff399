@@ -4,15 +4,19 @@
 <!-- header start -->
 <h3 align="center">Software Developer ll Tech Enthusiast</h3>
 
-<p align="center"> <a href="https://visitcount.itsvg.in"> <img src="https://visitcount.itsvg.in/api?id=asirff399&icon=6&color=0" alt="Visit Count"/></a></p>
+<!-- <p align="center"> <a href="https://visitcount.itsvg.in"> <img src="https://visitcount.itsvg.in/api?id=asirff399&icon=6&color=0" alt="Visit Count"/></a></p> -->
 
+<div align="center">
+	 
+![Visitor Count](https://profile-counter.glitch.me/{asirff399}/count.svg)
+</div>
 
-
-# 💫 About Me:
+## 💫 About Me
 
 🛠   I’m currently working with C, C++, Data Structures, Algorithm, OOP, SQL, Django, DRF, JavaScript, front-end technologies, etc.<br>🚀   I’m focusing on building exciting projects that challenge my skills.<br>👨🏻‍💻   You can check out most of my projects on Github.<br>👾   Fun fact: "It works!" Developers often have no idea why their code suddenly works.
 
-# 💻 Tech Stack:
+
+## 💻 Tech Stack
 
 <h3>When I code, I rely on</h3>
 
@@ -25,23 +29,37 @@
 | **Tools & Platforms**         | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) |
 
 
-# 📊 GitHub Stats:
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
 
-<table>
+<table align="center">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=asirff399&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false" />
+    <td align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asirff399&theme=github_dark" width="100%">
     </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=asirff399&theme=blue_navy&hide_border=true" />
+    <td align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asirff399&theme=github_dark" width="100%">
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asirff399&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asirff399&theme=blueberry&show_icons=true&hide_border=true&layout=compact" height="200px" width="100%">
     </td>
   </tr>
 </table>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/asirff399/github-readme-stats">
+        <img alt="asirff399's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=asirff399&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact&hide_border=true" height=""/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/asirff399">
+        <img alt="asirff399's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=asirff399&theme=tokyonight&hide_border=true" height=""/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 ## Contact
